@@ -10,3 +10,4 @@
 # Crie uma função que fala se um número é par ou ímpar.
 # Retorne se o número é par ou ímpar.
 
+print("teste")
