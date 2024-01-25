@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bf52cb4-0201-40b7-b25c-9b8c8e143c9a" name="Changes" comment="" />
+    <list default="true" id="1bf52cb4-0201-40b7-b25c-9b8c8e143c9a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-(Parte 1) args para quantidade de argumentos não nomeados/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/06-(Parte 1) args para quantidade de argumentos não nomeados/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/Funções.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Funções.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,25 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01 (1).executor": "Debug",
-    "Python.01 (2).executor": "Debug",
-    "Python.01 (3).executor": "Run",
-    "Python.01 (4).executor": "Run",
-    "Python.01.executor": "Run",
-    "Python.Funções.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.01 (2).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.01 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funções.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Funções">
     <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Python_Módulo_02" />
@@ -194,7 +198,8 @@
       <workItem from="1705513107584" duration="600000" />
       <workItem from="1705523587184" duration="7662000" />
       <workItem from="1705672051415" duration="627000" />
-      <workItem from="1706053424571" duration="4335000" />
+      <workItem from="1706053424571" duration="4442000" />
+      <workItem from="1706142327707" duration="3067000" />
     </task>
     <servers />
   </component>
@@ -204,9 +209,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$01__1_.coverage" NAME="01 (1) Coverage Results" MODIFIED="1706054906080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-Valores padrão para parâmetros em funções Python + NoneType e None" />
     <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$01__3_.coverage" NAME="01 (3) Coverage Results" MODIFIED="1706056141118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05-Retorno de valores das funções (return)" />
-    <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$Funções.coverage" NAME="Funções Coverage Results" MODIFIED="1706057896496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$Funções.coverage" NAME="Funções Coverage Results" MODIFIED="1706144764802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
     <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$01.coverage" NAME="01 Coverage Results" MODIFIED="1705528470370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02- Argumentos nomeados e argumentos posicionais (não nomeados) em funções" />
-    <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$01__4_.coverage" NAME="01 (4) Coverage Results" MODIFIED="1706057396667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06-(Parte 1) args para quantidade de argumentos não nomeados" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$01__4_.coverage" NAME="01 (4) Coverage Results" MODIFIED="1706143319909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06-(Parte 1) args para quantidade de argumentos não nomeados" />
     <SUITE FILE_PATH="coverage/Curso_Python_Módulo_02$01__2_.coverage" NAME="01 (2) Coverage Results" MODIFIED="1706054924950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-(Parte 1) Escopo de funções e módulos em Python + global" />
   </component>
 </project>
